@@ -1,4 +1,4 @@
-# Minigames-c-
+# Minigames-c++-
 
 ## Description
 This course introduced us to fundamental programming concepts, problem-solving strategies, and algorithm design. We worked with C++ to develop structured programs that reinforced logic and computation skills.
